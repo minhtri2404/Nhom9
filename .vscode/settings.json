@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\Asus\\Downloads\\mysql-connector-j-8.0.33.jar",
+    "c:\\Users\\quana\\Documents\\Zalo Received Files\\mysql-connector-j-8.0.33.jar",
+    "d:\\dowload\\mysql-connector-j-8.0.33.jar",
+    "d:\\Study_GDU\\Design_pattern\\mysql-connector-j-8.0.33.jar"
+  ]
+}
